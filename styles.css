@@ -8,10 +8,14 @@ body {
     margin: 0;
 }
 
-#setGrid {
-    align-self: center;
+button {
     width: 100px;
     height: 50px;
+}
+
+#head {
+    display: flex;
+    justify-content: space-around;
 }
 
 #container {
